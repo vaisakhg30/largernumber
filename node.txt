@@ -1,0 +1,5 @@
+DOM - dicument oject model
+----------
+
+dom has parent and child
+dom methods- to select elements from dom
